@@ -1,6 +1,0 @@
-Singleton: unica instancia a la cual acceder.
-
-Template: implementación polimorfica de métodos abstractos.
-
-Facade: da acceso a varios métodos desde un único punto de acceso, 
-		la responsabilidad de conocer a los métodos recae en el Facade
