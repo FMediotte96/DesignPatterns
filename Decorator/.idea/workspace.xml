@@ -5,27 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81718ea8-5ddc-4224-9e43-3159008c0b6b" name="Default Changelist" comment="Decorator">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/autodecorator/AireAcondicionado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/autodecorator/AutoDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/autodecorator/CDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/autodecorator/Gasoil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/autodecorator/Mp3Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/model/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/model/FiatUno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/model/FordFiesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/decorator/model/Vendible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/decorator/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teoría/Decorator-Facade.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/Facade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/actions/AdministracionAlquiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/actions/CuentasAPagar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/actions/MuestraPropiedad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/actions/VentaInmueble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Inmobiliaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Interesado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Propietario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/test/java/org/facade/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1618595211984</updated>
     </task>
+    <task id="LOCAL-00001" summary="Decorator">
+      <created>1618604561060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618604561060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

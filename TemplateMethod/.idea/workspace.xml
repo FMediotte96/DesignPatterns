@@ -5,26 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e17c548-f01f-45e0-a5b2-02f65b99ac33" name="Default Changelist" comment="TemplateMethod">
-      <change afterPath="$PROJECT_DIR$/../Decorator/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/Decorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/autodecorator/AireAcondicionado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/autodecorator/AutoDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/autodecorator/CDPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/autodecorator/Gasoil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/autodecorator/Mp3Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/model/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/model/FiatUno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/model/FordFiesta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/main/java/org/decorator/model/Vendible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Decorator/src/test/java/org/decorator/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teoría/Decorator-Facade.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/Facade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/actions/AdministracionAlquiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/actions/CuentasAPagar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/actions/MuestraPropiedad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/actions/VentaInmueble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Inmobiliaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Interesado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/main/java/org/facade/model/Propietario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Facade/src/test/java/org/facade/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
