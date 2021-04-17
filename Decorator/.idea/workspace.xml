@@ -5,29 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81718ea8-5ddc-4224-9e43-3159008c0b6b" name="Default Changelist" comment="Decorator">
-      <change afterPath="$PROJECT_DIR$/../Command/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/Command.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/Invoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/commands/ApagarServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/commands/PrendeServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/commands/ResetServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/servers/ArgentinaServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/servers/BrasilServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/servers/IServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/servers/USAServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Command/src/test/java/org/command/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teoría/Command.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/ChainOfResponsability.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/src/main/java/org/chain/model/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/src/main/java/org/chain/model/EjecutivoDeCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/src/main/java/org/chain/model/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/src/main/java/org/chain/model/IAprobador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/src/main/java/org/chain/model/LiderTeamEjecutivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChainOfResponsability/src/test/java/org/chain/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Command/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Facade/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Facade/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

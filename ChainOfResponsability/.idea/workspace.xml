@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49483581-b1e7-4bdf-a856-39c7f05c2fe5" name="Default Changelist" comment="Update Command.pdf" />
+    <list default="true" id="d657bd9c-368c-4a81-94b0-f3e71f9db2c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChainOfResponsability.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chain/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chain/model/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chain/model/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chain/model/EjecutivoDeCuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chain/model/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chain/model/IAprobador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/chain/model/LiderTeamEjecutivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/chain/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Command/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Command/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethod/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +40,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1rGzlbMHKAi9UTVwghj92gKn2yd" />
+  <component name="ProjectId" id="1rImjnIptgQYQ1Pa2IDoHfv8rqd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -37,11 +56,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.command.main.Main" />
-      <module name="Command" />
+      <option name="MAIN_CLASS_NAME" value="org.chain.main.Main" />
+      <module name="ChainOfResponsability" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.command.main.*" />
+          <option name="PATTERN" value="org.chain.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,34 +77,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="49483581-b1e7-4bdf-a856-39c7f05c2fe5" name="Default Changelist" comment="" />
-      <created>1618617368776</created>
+      <changelist id="d657bd9c-368c-4a81-94b0-f3e71f9db2c2" name="Default Changelist" comment="" />
+      <created>1618672118840</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618617368776</updated>
+      <updated>1618672118840</updated>
     </task>
-    <task id="LOCAL-00001" summary="Command">
-      <created>1618622526891</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1618622526891</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Command">
-      <created>1618622535065</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1618622535065</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Update Command.pdf">
-      <created>1618622572276</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1618622572276</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,8 +98,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Command" />
-    <MESSAGE value="Update Command.pdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Command.pdf" />
   </component>
 </project>
