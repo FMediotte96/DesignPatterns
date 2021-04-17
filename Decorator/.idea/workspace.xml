@@ -14,6 +14,12 @@
       <change afterPath="$PROJECT_DIR$/../Command/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Command/Command.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Command/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/Invoker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/commands/ApagarServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/commands/PrendeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/commands/ResetServer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/servers/ArgentinaServer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/servers/BrasilServer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Command/src/main/java/org/command/model/servers/IServer.java" afterDir="false" />
