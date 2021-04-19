@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae9f35f7-cf5a-436c-9c41-35a2163e0ce7" name="Default Changelist" comment="AbstractFactory">
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/Factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/factory/TrianguloFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Equilatero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Escaleno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Isosceles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/test/java/org/model/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teoría/Abstract Factory.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoría/Abstract Factory.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/factory/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/factory/FactoryLcdAzul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/factory/FactoryPlasmaAmarillo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
