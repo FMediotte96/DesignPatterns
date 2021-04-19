@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d657bd9c-368c-4a81-94b0-f3e71f9db2c2" name="Default Changelist" comment="ChainOfResponsability">
+    <list default="true" id="ae9f35f7-cf5a-436c-9c41-35a2163e0ce7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/client/EnsamblajeTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/factory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/factory/FactoryLcdAzul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/factory/FactoryPlasmaAmarillo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/product/Amarillo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/product/Azul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/product/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/product/LCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/product/Plasma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/product/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/factory/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChainOfResponsability/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsability/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Decorator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Teoría/Chain of Responsability.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoría/Chain of Responsability.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +36,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -23,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1rImjnIptgQYQ1Pa2IDoHfv8rqd" />
+  <component name="ProjectId" id="1rO9zrhIpAT1DbDHKGpv1OehImZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -39,11 +59,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.chain.main.Main" />
-      <module name="ChainOfResponsability" />
+      <option name="MAIN_CLASS_NAME" value="org.Main" />
+      <module name="AbstractFactory" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.chain.main.*" />
+          <option name="PATTERN" value="org.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,27 +80,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d657bd9c-368c-4a81-94b0-f3e71f9db2c2" name="Default Changelist" comment="" />
-      <created>1618672118840</created>
+      <changelist id="ae9f35f7-cf5a-436c-9c41-35a2163e0ce7" name="Default Changelist" comment="" />
+      <created>1618836536037</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618672118840</updated>
+      <updated>1618836536037</updated>
     </task>
-    <task id="LOCAL-00001" summary="ChainOfResponsability">
-      <created>1618673473048</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1618673473048</updated>
-    </task>
-    <task id="LOCAL-00002" summary="ChainOfResponsability">
-      <created>1618673857995</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1618673857995</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,7 +101,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ChainOfResponsability" />
-    <option name="LAST_COMMIT_MESSAGE" value="ChainOfResponsability" />
   </component>
 </project>
