@@ -4,24 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b807c889-1fe7-4c9c-852e-d3fd66c48629" name="Default Changelist" comment="Builder">
-      <change afterPath="$PROJECT_DIR$/../State/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/State.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/model/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/DolorDeCabeza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/DolorDePanza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/SaludState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/Saludable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/test/java/org/state/AppTest.java" afterDir="false" />
+    <list default="true" id="66f19092-2273-4df7-8ce2-430f42d791fa" name="Default Changelist" comment="State">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/State.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/model/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/state/DolorDeCabeza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/state/DolorDePanza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/state/SaludState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/state/Saludable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/state/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Teoría/State.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Adapter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adapter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1rPMoVTrNV0mWMOKygZ6a3p0bn2" />
+  <component name="ProjectId" id="1rPR0QtZZiiYPkjXfjxY5e8eUZU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -53,15 +55,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="org.model" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Main" />
-      <module name="Builder" />
+      <module name="State" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.*" />
@@ -81,27 +78,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b807c889-1fe7-4c9c-852e-d3fd66c48629" name="Default Changelist" comment="" />
-      <created>1618873448243</created>
+      <changelist id="66f19092-2273-4df7-8ce2-430f42d791fa" name="Default Changelist" comment="" />
+      <created>1618875515808</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618873448243</updated>
+      <updated>1618875515808</updated>
     </task>
-    <task id="LOCAL-00001" summary="Builder">
-      <created>1618874379853</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1618874379853</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Builder">
-      <created>1618874388278</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1618874388278</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,7 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Builder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Builder" />
+    <MESSAGE value="State" />
+    <option name="LAST_COMMIT_MESSAGE" value="State" />
   </component>
 </project>

@@ -5,24 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6696310d-11a7-4cda-976a-4d5f71f78167" name="Default Changelist" comment="Memento">
-      <change afterPath="$PROJECT_DIR$/../Builder/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/Builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/src/main/java/org/builder/AutoBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/src/main/java/org/builder/Concesionaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/src/main/java/org/builder/FiatBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/src/main/java/org/builder/FordBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/src/main/java/org/model/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/src/main/java/org/model/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Builder/src/test/java/org/model/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teoría/Builder.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/State.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/model/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/DolorDeCabeza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/DolorDePanza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/SaludState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/Saludable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../State/src/test/java/org/state/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teoría/State.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Adapter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adapter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
