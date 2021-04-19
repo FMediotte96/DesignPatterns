@@ -5,28 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81718ea8-5ddc-4224-9e43-3159008c0b6b" name="Default Changelist" comment="Decorator">
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/AbstractFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/client/EnsamblajeTV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/factory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/factory/FactoryLcdAzul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/factory/FactoryPlasmaAmarillo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/product/Amarillo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/product/Azul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/product/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/product/LCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/product/Plasma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/main/java/org/product/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AbstractFactory/src/test/java/org/factory/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChainOfResponsability/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ChainOfResponsability/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/Factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/factory/TrianguloFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Equilatero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Escaleno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Isosceles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory/src/test/java/org/model/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractFactory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teoría/Chain of Responsability.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoría/Chain of Responsability.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Teoría/Abstract Factory.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoría/Abstract Factory.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
