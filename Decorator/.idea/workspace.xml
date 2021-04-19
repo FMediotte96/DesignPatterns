@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81718ea8-5ddc-4224-9e43-3159008c0b6b" name="Default Changelist" comment="Decorator">
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/Factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/factory/TrianguloFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Equilatero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Escaleno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Isosceles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/main/java/org/model/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Factory/src/test/java/org/model/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AbstractFactory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractFactory/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Teoría/Abstract Factory.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Teoría/Abstract Factory.pdf" afterDir="false" />
-    </list>
+    <list default="true" id="81718ea8-5ddc-4224-9e43-3159008c0b6b" name="Default Changelist" comment="Decorator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
