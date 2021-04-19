@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6696310d-11a7-4cda-976a-4d5f71f78167" name="Default Changelist" comment="Memento">
-      <change afterPath="$PROJECT_DIR$/../Adapter/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/Adapter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/src/main/java/org/adapter/ViejaToNuevaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/src/main/java/org/model/IPersonaNueva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/src/main/java/org/model/IPersonaVieja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/src/main/java/org/model/PersonaVieja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Adapter/src/test/java/org/model/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c755e5c3-919f-4666-90e6-e9716b74735f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/adapter/ViejaToNuevaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/model/IPersonaNueva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/model/IPersonaVieja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/model/PersonaVieja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/model/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Memento/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,7 +36,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1rP8Y5fwW8ywlOxsGRCmzHVl0CZ" />
+  <component name="ProjectId" id="1rPEqlxyFLjYlqOYJjA5a9HSvQo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -52,7 +53,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Main" />
-      <module name="Memento" />
+      <module name="Adapter" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.*" />
@@ -72,20 +73,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6696310d-11a7-4cda-976a-4d5f71f78167" name="Default Changelist" comment="" />
-      <created>1618866410091</created>
+      <changelist id="c755e5c3-919f-4666-90e6-e9716b74735f" name="Default Changelist" comment="" />
+      <created>1618869519519</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618866410091</updated>
+      <updated>1618869519519</updated>
     </task>
-    <task id="LOCAL-00001" summary="Memento">
-      <created>1618867040303</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1618867040303</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +94,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Memento" />
-    <option name="LAST_COMMIT_MESSAGE" value="Memento" />
   </component>
 </project>
