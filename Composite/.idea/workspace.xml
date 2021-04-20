@@ -4,25 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7806f3fc-e63b-45f2-ac41-853456c6f877" name="Default Changelist" comment="Mediator">
-      <change afterPath="$PROJECT_DIR$/../Composite/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/Composite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Aula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Composite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Direccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Escuela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/IPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Composite/src/test/java/org/composite/AppTest.java" afterDir="false" />
+    <list default="true" id="8ec4a486-0262-4b95-a112-7f1f83867595" name="Default Changelist" comment="Composite">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Composite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Aula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Direccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Escuela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/IPersonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/composite/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Teoría/Composite.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proxy/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1rPxaDM425n1lTfmbduZSs6YqRw" />
+  <component name="ProjectId" id="1rQx7EpZUHXwhaUn0mjtremhKn7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -58,7 +58,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Main" />
-      <module name="Mediator" />
+      <module name="Composite" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.*" />
@@ -78,20 +78,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7806f3fc-e63b-45f2-ac41-853456c6f877" name="Default Changelist" comment="" />
-      <created>1618891588653</created>
+      <changelist id="8ec4a486-0262-4b95-a112-7f1f83867595" name="Default Changelist" comment="" />
+      <created>1618921947374</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618891588653</updated>
+      <updated>1618921947374</updated>
     </task>
-    <task id="LOCAL-00001" summary="Mediator">
-      <created>1618892664597</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1618892664597</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +99,28 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Mediator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mediator" />
+    <MESSAGE value="Composite" />
+    <option name="LAST_COMMIT_MESSAGE" value="Composite" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/composite/Persona.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/composite/Composite.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -5,20 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbfc3382-c38b-420f-9714-7d2b6b6d01cf" name="Default Changelist" comment="Proxy">
-      <change afterPath="$PROJECT_DIR$/../Mediator/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/Mediator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/src/main/java/org/mediator/Chateable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/src/main/java/org/mediator/IChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/src/main/java/org/mediator/SalonDeChat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/src/main/java/org/mediator/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mediator/src/test/java/org/mediator/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teoría/Mediator.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/Composite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Aula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Composite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Direccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Escuela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/IPersonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/src/main/java/org/composite/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composite/src/test/java/org/composite/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teoría/Composite.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
