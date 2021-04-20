@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cddbc60-cfd6-4e02-9583-9c23d0c84427" name="Default Changelist" comment="Prototype">
-      <change afterPath="$PROJECT_DIR$/../Teoría/Visitor.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Visitor/src/main/java/org/model/ProductoDescuento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Visitor/src/main/java/org/model/ProductoNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Visitor/src/main/java/org/visitor/Visitable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Visitor/src/main/java/org/visitor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Visitor/src/test/java/org/visitor/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7cddbc60-cfd6-4e02-9583-9c23d0c84427" name="Default Changelist" comment="Prototype" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
