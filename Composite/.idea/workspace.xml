@@ -5,23 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ec4a486-0262-4b95-a112-7f1f83867595" name="Default Changelist" comment="Composite">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Composite.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Aula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Composite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Direccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Escuela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/IPersonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/composite/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/composite/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teoría/Composite.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/Strategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/model/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/model/Colegio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/CompetenciaInternacional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/CompetenciaNacional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/InterColegial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/ListadoStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strategy/src/test/java/org/strategy/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teoría/Strategy.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proxy/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -84,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1618921947374</updated>
     </task>
+    <task id="LOCAL-00001" summary="Composite">
+      <created>1618923024278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618923024278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

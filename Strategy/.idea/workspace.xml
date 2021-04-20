@@ -4,28 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbfc3382-c38b-420f-9714-7d2b6b6d01cf" name="Default Changelist" comment="Proxy">
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/Strategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/model/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/model/Colegio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/CompetenciaInternacional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/CompetenciaNacional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/InterColegial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/ListadoStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/test/java/org/strategy/AppTest.java" afterDir="false" />
+    <list default="true" id="393b9ad4-6395-4c7e-b6fa-0aedd86a101e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strategy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/model/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/model/Colegio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/strategy/CompetenciaInternacional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/strategy/CompetenciaNacional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/strategy/InterColegial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/strategy/ListadoStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/strategy/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Teoría/Strategy.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proxy/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1rPbkafDpidxtLZODPJlLRL3gbc" />
+  <component name="ProjectId" id="1rR0SjkzlFmnYxdjmpcgT4H7mh1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -56,10 +57,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.strategy" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.Main" />
-      <module name="Proxy" />
+      <module name="Strategy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.*" />
@@ -79,20 +85,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bbfc3382-c38b-420f-9714-7d2b6b6d01cf" name="Default Changelist" comment="" />
-      <created>1618880816295</created>
+      <changelist id="393b9ad4-6395-4c7e-b6fa-0aedd86a101e" name="Default Changelist" comment="" />
+      <created>1618923597555</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1618880816295</updated>
+      <updated>1618923597555</updated>
     </task>
-    <task id="LOCAL-00001" summary="Proxy">
-      <created>1618884167528</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1618884167528</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,18 +106,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Proxy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proxy" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/Main.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
