@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbfc3382-c38b-420f-9714-7d2b6b6d01cf" name="Default Changelist" comment="Proxy">
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/Strategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/model/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/model/Colegio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/CompetenciaInternacional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/CompetenciaNacional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/InterColegial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/main/java/org/strategy/ListadoStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Strategy/src/test/java/org/strategy/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teoría/Strategy.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Strategy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Strategy/src/main/java/org/model/Alumno.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

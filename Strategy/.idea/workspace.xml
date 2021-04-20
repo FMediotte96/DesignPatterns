@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="393b9ad4-6395-4c7e-b6fa-0aedd86a101e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strategy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/model/Alumno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/model/Colegio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/strategy/CompetenciaInternacional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/strategy/CompetenciaNacional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/strategy/InterColegial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/strategy/ListadoStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/strategy/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teoría/Strategy.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mediator/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proxy/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="393b9ad4-6395-4c7e-b6fa-0aedd86a101e" name="Default Changelist" comment="Strategy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1618923597555</updated>
     </task>
+    <task id="LOCAL-00001" summary="Strategy">
+      <created>1618924742876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618924742876</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,5 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strategy" />
   </component>
 </project>
