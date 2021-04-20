@@ -5,24 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6696310d-11a7-4cda-976a-4d5f71f78167" name="Default Changelist" comment="Memento">
-      <change afterPath="$PROJECT_DIR$/../State/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/State.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/model/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/DolorDeCabeza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/DolorDePanza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/SaludState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/main/java/org/state/Saludable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../State/src/test/java/org/state/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Teoría/State.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/Observer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/com/api/java/model/Administracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/com/api/java/model/Compras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/com/api/java/model/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/com/api/java/observer/AlarmaLibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/com/api/java/observer/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/com/api/java/observer/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/org/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/org/model/Administracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/org/model/Compras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/org/model/ILibroMalEstado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/org/model/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/org/observer/AlarmaLibro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/org/observer/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/org/observer/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/main/java/org/observer/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer/src/test/java/org/observer/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teoría/Observer.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Adapter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Adapter/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Builder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../State/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../State/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
